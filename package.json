@@ -1,0 +1,24 @@
+{
+  "name": "node_web_scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projectforest/node_web_scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projectforest/node_web_scraper/issues"
+  },
+  "homepage": "https://github.com/projectforest/node_web_scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
